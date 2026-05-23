@@ -4,7 +4,7 @@
 Am Security Researcher with years of experience. I do private audits and bug bounties. 
 I have found serious vulnerabilities in 
 
-Sui protocol, Near, Celestia, 1 inch, Rujira, DCR chain, Namada, Cross, Wemix, Conflux network
+Sui protocol, Near, Celestia, 1 inch, Rujira, DCR chain, Namada, Cross, Wemix, Conflux network, Chainflip
 
 All of these were acknowledged and patched by the teams.
 I also do private audits.
