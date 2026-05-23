@@ -11,7 +11,7 @@ I also do private audits.
 
 Methodology used to find vulnerabilities:
 1. Writing Tests
-2.fuzzing (Stateful and stateless fuzzing, differential and integral fuzzing) to find edge cases missed by teams.
+fuzzing (Stateful and stateless fuzzing, differential and integral fuzzing) to find edge cases missed by teams.
 3. Manual review
 4. Reviewing race conditions.
 5. Autonomous scanning to prove reachability and exploitability of public entry points
