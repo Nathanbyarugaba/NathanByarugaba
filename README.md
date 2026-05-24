@@ -1,7 +1,7 @@
 ## BLOCKCHAIN SECURITY RESEARCHER
 
 
-Am a Security Researcher with years of experience. I do private audits and bug bounties. 
+Am a Security Researcher who does private audits and bug bounties. 
 I have found serious vulnerabilities in: 
 
 Sui protocol, Near, Celestia, 1 inch, Rujira, DCR chain, Namada, Cross, Wemix, Conflux network, Chainflip ...
