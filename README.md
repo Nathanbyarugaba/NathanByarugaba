@@ -20,4 +20,5 @@ fuzzing (Stateful and stateless fuzzing, differential and integral fuzzing) to f
 7. Reading and understanding attack vectors in past findings. 
 
 Educational Background
+
 Mathematics,     Carleton University Canada Ottawa
