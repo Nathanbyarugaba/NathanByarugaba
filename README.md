@@ -13,7 +13,7 @@ I also do private audits.
 What is my Alpha: 
 **extreme patience and rigor**. 
 Am a professional, I do this fulltime. 
-For example. I fuzz targets in dedicated cloud servers for weeks on end to find crashes that can lead to exploits. Building customs harnesses, fuzzsuites. 
+For example. I fuzz targets in dedicated cloud servers for weeks on end to find crashes that can lead to exploits. Building custom harnesses, fuzzsuites. 
 I formally verify Blockchains and smart contracts looking for counterexamples, and violations.
 This can lead to an exploit that a team missed.
 
