@@ -10,6 +10,12 @@ All of these were acknowledged and patched by the teams. I find exploitable real
 I find vulnerabilties and report them before Blackhats exploit them. I secure funds from being stolen.
 I also do private audits.
 
+What is my Alpha: 
+**extreme patience and rigor**. 
+Am a professional, I do this fulltime. For example. I fuzz targets in dedicated cloud servers for weeks on end to find crashes that can lead to exploits. Building customs harnesses, fuzzsuites. 
+I formally verify Blockchains and smart contracts looking for counterexamples, and violations.
+This can lead to an exploit that a team missed.
+
 Methodology used to find vulnerabilities:
 1. Writing Tests.
 fuzzing (Stateful and stateless fuzzing, differential and integral fuzzing) to find edge cases missed by teams.
