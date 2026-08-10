@@ -4,7 +4,7 @@
 Am a Security Researcher who does private audits and bug bounties. 
 I have found serious vulnerabilities in: 
 
-Sui protocol, Near, MegaEth Celestia, 1 inch, Rujira, DCR chain, Namada, Cross, Wemix, Conflux network, Chainflip ...
+Sui protocol, Near, MegaEth, Celestia, 1 inch, Rujira, DCR chain, Namada, Cross, Wemix, Conflux network, Chainflip ...
 
 All of these were acknowledged and patched by the teams. I find exploitable real vulnerabilities in live production Blockchains and Smart contracts.
 I find vulnerabilties and report them before Blackhats exploit them. I secure funds from being stolen.
