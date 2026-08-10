@@ -17,7 +17,8 @@ fuzzing (Stateful and stateless fuzzing, differential and integral fuzzing) to f
 4. Reviewing race conditions.
 5. Autonomous scanning to prove reachability and exploitability of public entry points
 6. Invariant testing. 
-7. Reading and understanding attack vectors in past findings. 
+7. Reading and understanding attack vectors in past findings.
+8. Formal verification ->counterexample->violation->Exploit. Using languages like Verus, F*, Lean4, TLA+, certora.
 
 Educational Background
 
