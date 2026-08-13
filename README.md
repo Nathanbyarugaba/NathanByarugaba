@@ -26,7 +26,7 @@ fuzzing (Stateful and stateless fuzzing, differential and integral fuzzing) to f
 6. Invariant testing. 
 7. Reading and understanding attack vectors in past findings.
 8. Formal verification ->counterexample->violation->Exploit. Using languages like Verus, F*, Lean4, TLA+, certora.
-
+9. Cryptographic adversarial analysis. Using EasyCrypt and Tamarin prover.
 Educational Background
 
 Mathematics,     Carleton University Canada Ottawa
